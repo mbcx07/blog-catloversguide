@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://catloversguide.com/blog-catloversguide/sitemap.xml
